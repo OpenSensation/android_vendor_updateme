@@ -9,7 +9,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     updateme.disableinstalledapps=1 \
     updateme.disablescripts=1 \
-    updateme.downloaddir=/mnt/sdcard/Download
+    updateme.downloaddir=/storage/sdcard0/Download
 
 # But don't forget to include it
 PRODUCT_COPY_FILES += \
